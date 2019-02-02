@@ -1,6 +1,6 @@
 [submodule "basura-trashcan"]
 	path = basura-trashcan
-	url = git@github.com:FullStackEmbedded/basura-trashcan.git
+	url = https://github.com/FullStackEmbedded/basura-trashcan.git
 [submodule "basura-server"]
 	path = basura-server
-	url = git@github.com:FullStackEmbedded/basura-server.git
+	url = https://github.com/FullStackEmbedded/basura-server.git
