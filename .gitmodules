@@ -4,3 +4,6 @@
 [submodule "basura-server"]
 	path = basura-server
 	url = https://github.com/FullStackEmbedded/basura-server.git
+[submodule "FSEDevBoard"]
+	path = FSEDevBoard
+	url = https://github.com/FullStackEmbedded/FSEDevBoard.git
